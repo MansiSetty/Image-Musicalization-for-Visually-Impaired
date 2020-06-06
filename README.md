@@ -31,5 +31,6 @@ System and software Pre-requisites to run the project:
 ====================================================================================================
 
 Since the databases are stored locally in directories, the file path needs to be changed in the code 'gui.py' at the following line of code:
+
 	at line 100 :   directory='C:/Users/soso/Desktop/WORK/project/Recognition/music classified/'
 

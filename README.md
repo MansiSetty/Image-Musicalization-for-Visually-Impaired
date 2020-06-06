@@ -1,4 +1,4 @@
-This is our Final Year Project called #IMAGE MUSICALIZATION- USING IMAGE EMOTION ANALYSIS
+This is our Final Year Project called # IMAGE MUSICALIZATION- USING IMAGE EMOTION ANALYSIS
 The project achieves two goals-
 - Finding the emotion label of an input image.
 - Mapping the input image to an appropriate music based on the emotions.
@@ -7,17 +7,18 @@ The project files hierarchy is as follows:
 
 Project:(has three folders)
 
-1. Python Code- 
+- Python Code- 
 	* cnn.py( This is the training code).
 	* gui.py( This is the testing code with GUI).
 	* cnn_model.pkl.
 	* label_transform.pkl.
 
-2. DATABASE-
-		This is the image dataset with 6 folders(angry, disgust, fear, joy, surprise, sadness). Each of the folders contain 400 images. Unzip the 'database.zip' file and extract the folders here.
-3. Music clasified-
-		Download the music database from https://drive.google.com/drive/folders/1MYkepXGVOevWndRlcBdW-WlKgHeHmPJx?usp=sharing
-		This is the music dataset with 6 emotions folders + 1 neutral folder + 5 combination folders. Each folder contains MP3 music files.
+- DATABASE-
+	* This is the image dataset with 6 folders(angry, disgust, fear, joy, surprise, sadness). 
+	* Each of the folders contain 400 images. Unzip the 'database.zip' file and extract the folders here.
+- Music clasified-
+	* Download the music database from https://drive.google.com/drive/folders/1MYkepXGVOevWndRlcBdW-WlKgHeHmPJx?usp=sharing .
+	* This is the music dataset with 6 emotions folders + 1 neutral folder + 5 combination folders. Each folder contains MP3 music files.
 
 =================================================================================================
 
@@ -45,7 +46,7 @@ in the file 'gui.py' at the following line of code:
 
 ================================================================================================
 
--The file cnn.py was used to train the CNN model.
+- The file cnn.py was used to train the CNN model.
 
 - The file gui.py gives the actual output on a python gui rendered by tkinter.
 

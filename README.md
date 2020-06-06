@@ -6,15 +6,16 @@ The project achieves two goals-
 The project files hierarchy is as follows:
 
 Project:(has three folders)
-	1. Python Code- 
+
+1. Python Code- 
 		* cnn.py( This is the training code)
 		* gui.py( This is the testing code with GUI)
 		* cnn_model.pkl
 		* label_transform.pkl
 
-	2. DATABASE-
+2. DATABASE-
 		This is the image dataset with 6 folders(angry, disgust, fear, joy, surprise, sadness). Each of the folders contain 400 images. Unzip the 'database.zip' file and extract the folders here.
-	3. Music clasified-
+3. Music clasified-
 		Download the music database from https://drive.google.com/drive/folders/1MYkepXGVOevWndRlcBdW-WlKgHeHmPJx?usp=sharing
 		This is the music dataset with 6 emotions folders + 1 neutral folder + 5 combination folders. Each folder contains MP3 music files.
 

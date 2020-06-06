@@ -14,6 +14,7 @@ Project:
 2. DATABASE-
 This is the image dataset with 6 folders(angry, disgust, fear, joy, surprise, sadness). Each of the folders contain 400 images. Unzip the 'database.zip' file and extract the folder here.
 3. Music clasified-
+Download the music database from https://drive.google.com/drive/folders/1MYkepXGVOevWndRlcBdW-WlKgHeHmPJx?usp=sharing
 This is the music dataset with 6 emotions folders + 1 neutral folder + 5 combination folders. Each folder contains MP3 music files.
 
 =================================================================================================

@@ -1,4 +1,6 @@
-This is our Final Year Project called # IMAGE MUSICALIZATION- USING IMAGE EMOTION ANALYSIS
+# IMAGE MUSICALIZATION USING IMAGE EMOTION ANALYSIS 
+
+This is our Final Year Project called IMAGE MUSICALIZATION- USING IMAGE EMOTION ANALYSIS
 The project achieves two goals-
 - Finding the emotion label of an input image.
 - Mapping the input image to an appropriate music based on the emotions.

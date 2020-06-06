@@ -1,4 +1,4 @@
-This is our Final Year Project called # IMAGE MUSICALIZATION- USING IMAGE EMOTION ANALYSIS #
+This is our Final Year Project called #IMAGE MUSICALIZATION- USING IMAGE EMOTION ANALYSIS
 The project achieves two goals-
 - Finding the emotion label of an input image.
 - Mapping the input image to an appropriate music based on the emotions.
@@ -8,10 +8,10 @@ The project files hierarchy is as follows:
 Project:(has three folders)
 
 1. Python Code- 
-		* cnn.py( This is the training code)
-		* gui.py( This is the testing code with GUI)
-		* cnn_model.pkl
-		* label_transform.pkl
+	* cnn.py( This is the training code).
+	* gui.py( This is the testing code with GUI).
+	* cnn_model.pkl.
+	* label_transform.pkl.
 
 2. DATABASE-
 		This is the image dataset with 6 folders(angry, disgust, fear, joy, surprise, sadness). Each of the folders contain 400 images. Unzip the 'database.zip' file and extract the folders here.

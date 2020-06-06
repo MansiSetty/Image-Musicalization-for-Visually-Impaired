@@ -40,3 +40,12 @@ in the file 'gui.py' at the following line of code:
 
 	at line 100 :   directory='C:/Users/soso/Desktop/WORK/project/Recognition/music classified/'
 
+================================================================================================
+
+-The file cnn.py was used to train the CNN model.
+
+- The file gui.py gives the actual output on a python gui rendered by tkinter.
+
+With the above packages installed and modifications done, run the gui.py file in Spyder IDE. Upload a photo and experience Image Musicalization.
+
+If you wish to retrain the Network with a different dataset, run the cnn.py file.

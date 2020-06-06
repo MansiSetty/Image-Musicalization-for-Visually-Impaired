@@ -4,16 +4,17 @@ The project achieves two goals-
 - Mapping the input image to an appropriate music based on the emotions.
 
 The project files hierarchy is as follows:
+
 Project:
 1. Python Code-
-	cnn.py( This is the training code)
-	gui.py( This is the testing code with GUI)
-	cnn_model.pkl
-	label_transform.pkl
+cnn.py( This is the training code)
+gui.py( This is the testing code with GUI)
+cnn_model.pkl
+label_transform.pkl
 2. DATABASE-
-	This is the image dataset with 6 folders(angry, disgust, fear, joy, surprise, sadness). Each of the folders contain 400 images.
+This is the image dataset with 6 folders(angry, disgust, fear, joy, surprise, sadness). Each of the folders contain 400 images.
 3. Music clasified-
-	This is the music dataset with 6 emotions folders + 1 neutral folder + 5 combination folders. Each folder contains MP3 music files.
+This is the music dataset with 6 emotions folders + 1 neutral folder + 5 combination folders. Each folder contains MP3 music files.
 
 =================================================================================================
 

@@ -32,11 +32,11 @@ System and software Pre-requisites to run the project:
 
 Since the databases are stored locally in directories, the file path needs to be changed :
 
-in the code 'cnn.py' at the following line of code:
+in the file 'cnn.py' at the following line of code:
 
 	at line 28: 	directory_root = 'C:/Users/soso/Desktop/WORK/project/Recognition/DATABASE'
 
-in the code 'gui.py' at the following line of code:
+in the file 'gui.py' at the following line of code:
 
 	at line 100 :   directory='C:/Users/soso/Desktop/WORK/project/Recognition/music classified/'
 
